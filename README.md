@@ -5,7 +5,7 @@ To ensure reliable and fast connections, Okey Proxy utilizes international IPS d
 
 OkeyProxy official website: https://www.okeyproxy.com
 
-Okey Proxy trial: https://www.okeyproxy.com/free-trial
+Okey Proxy trial: Get 1GB Free Trial of Rotating Residential Proxy.
 
 Youtube channel: https://www.youtube.com/@OkeyProxy
 
