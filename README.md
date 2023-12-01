@@ -14,7 +14,7 @@ TrustPilot Reviews: https://www.trustpilot.com/review/www.okeyproxy.com
 
 <strong>Proxy IP Type</strong>
 
-Rotating Residential Proxy
+<a href="https://www.okeyproxy.com/en/residential-proxies">Unmetered Residential Proxy</a>
 Dedicated static residential IP
 
 datacenter proxy IP
@@ -50,7 +50,7 @@ Instagram Proxy<br/>
 Youtube Proxy<br/>
 Discord Proxy<br/>
 Reddit Proxy<br/>
-Carding Proxy<br/>
+<a href="https://www.okeyproxy.com/en/blog/Best-SOCKS5-Proxies-for-Carding-Enhancing-Security-and-Anonymity" title="Best Proxy For Carding">Carding Proxy</a><br/>
 Craigslist Proxy<br/>
 <a href="https://www.okeyproxy.com/cn/blog/How-To-Set-Up-A-Telegram-Proxy" title="telegram proxy">Telegram Proxy</a><br/>
 SEO Monitoring<br/>
