@@ -12,12 +12,11 @@ Youtube channel: https://www.youtube.com/@OkeyProxy
 
 TrustPilot Reviews: https://www.trustpilot.com/review/www.okeyproxy.com
 
-<strong>Proxy IP Type</strong>
+<strong>Proxy IP Type</strong><br/>
 
-<a href="https://www.okeyproxy.com/en/residential-proxies">Unmetered Residential Proxy</a>
-Dedicated static residential IP
-
-datacenter proxy IP
+<a href="https://www.okeyproxy.com/en/residential-proxies">Unmetered Residential Proxy</a><br/>
+Static Residential Proxies<br/>
+Datacenter Proxy<br/>
 
 <strong>Proxy IP Locations</strong>
 <br/>United States<br/>
