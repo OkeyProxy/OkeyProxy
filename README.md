@@ -86,11 +86,11 @@ Android device: https://www.okeyproxy.com/en/blog/How-to-configure-Android-proxy
 Local Browser Settings: https://www.okeyproxy.com/en/blog/How-to-extract-and-use-IP-through-tunnel-forwarding-
 HuaYoung Browser:https://www.okeyproxy.com/en/blog/szdamai-browser-integrate-with-okeyproxy
 
-Integration
-Mulogin：https://www.okeyproxy.com/en/blog/Mulogin-Antidetect-Browser-Integrate-with-Okey-Proxy
-BitBrowser: https://www.okeyproxy.com/en/blog/bitbrowser-integrate-with-okeyproxy
-Incogniton: https://www.okeyproxy.com/en/blog/how-to-integrate-incogniton-browser-with-okeyproxy
-Octoparse Scraper: https://www.okeyproxy.com/en/blog/how-to-configure-okey-proxy-with-octoparse-scraper
+<p><strong>Integration</strong></p>
+<p>Mulogin：https://www.okeyproxy.com/en/blog/Mulogin-Antidetect-Browser-Integrate-with-Okey-Proxy</p>
+<p>BitBrowser: https://www.okeyproxy.com/en/blog/bitbrowser-integrate-with-okeyproxy</p>
+<p>Incogniton: https://www.okeyproxy.com/en/blog/how-to-integrate-incogniton-browser-with-okeyproxy</p>
+<p>Octoparse Scraper: https://www.okeyproxy.com/en/blog/how-to-configure-okey-proxy-with-octoparse-scraper</p>
 
 Okey Proxy: Your Best Socks5 Residential Proxy
 
