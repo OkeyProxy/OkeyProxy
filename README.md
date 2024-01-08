@@ -101,8 +101,8 @@ OkeyProxy has a special user pannel, not limited to any device, so supports Wind
 <p>https://www.okeyproxy.com/proxy/how-to-use-taco-proxy-in-2024/</p>
 
 <h4>Free Proxy Setting Tutorial</h4>
-<a href="https://www.okeyproxy.com/proxy/croxy-proxy-for-youtube-unblocked/">Croxyproxy Setting for Youtube</a>
-<a href="https://www.okeyproxy.com/proxy/plain-proxies-free-web-proxy/">plain proxy</a>
+<p><a href="https://www.okeyproxy.com/proxy/croxy-proxy-for-youtube-unblocked/">Croxyproxy Setting for Youtube</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/plain-proxies-free-web-proxy/">plain proxy</a></p>
 
 
 <h4><a href="https://www.okeyproxy.com/?link=fa5922">Okey Proxy:The Best Socks5 Residential Proxy</a></h4>
