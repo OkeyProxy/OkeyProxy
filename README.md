@@ -99,6 +99,7 @@ OkeyProxy has a special user pannel, not limited to any device, so supports Wind
 <p>https://www.okeyproxy.com/proxy/setup-proxy-helper-in-chrome-browser/</p>
 <p>https://www.okeyproxy.com/proxy/tutorial-of-proxy-switchyomega-chrome-settings/</p>
 <p>https://www.okeyproxy.com/proxy/how-to-use-bp-proxy-switcher-chrome-extension/</p>
+<p>https://www.okeyproxy.com/proxy/how-to-use-proxifier-with-okey-proxy-in-2024/</p>
 <p>https://www.okeyproxy.com/proxy/how-to-use-taco-proxy-in-2024/</p>
 
 <h4>Free Proxy Setting Tutorial</h4>
