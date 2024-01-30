@@ -86,30 +86,30 @@ OkeyProxy has a special user pannel, not limited to any device, so supports Wind
 
 
 <h4>Integration</h4>
-<p>Mulogin：https://www.okeyproxy.com/en/blog/Mulogin-Antidetect-Browser-Integrate-with-Okey-Proxy?link=fa5922</p>
+<p>Mulogin Browser：https://www.okeyproxy.com/en/blog/Mulogin-Antidetect-Browser-Integrate-with-Okey-Proxy?link=fa5922</p>
 <p>BitBrowser: https://www.okeyproxy.com/en/blog/bitbrowser-integrate-with-okeyproxy?link=fa5922</p>
-<p>Incogniton: https://www.okeyproxy.com/en/blog/how-to-integrate-incogniton-browser-with-okeyproxy?link=fa5922</p>
+<p>Incogniton Browser: https://www.okeyproxy.com/en/blog/how-to-integrate-incogniton-browser-with-okeyproxy?link=fa5922</p>
 <p>Octoparse Scraper: https://www.okeyproxy.com/en/blog/how-to-configure-okey-proxy-with-octoparse-scraper?link=fa5922</p>
 <p>HuaYoung Browser:https://www.okeyproxy.com/en/blog/szdamai-browser-integrate-with-okeyproxy?link=fa5922</p>
 
 <h4>Common Tutorial</h4>
-<p>https://www.okeyproxy.com/proxy/using-whoer-ip-checker-in-2023/</p>
-<p>https://www.okeyproxy.com/proxy/how-to-set-up-socks5-proxy-list-wingate-me-in-2023/</p>
-<p>https://www.okeyproxy.com/proxy/overview-of-ultraviolet-proxy-features-sites-and-settings/</p>
-<p>https://www.okeyproxy.com/proxy/how-to-use-taco-proxy-in-2024/</p>
+<p><a href="https://www.okeyproxy.com/proxy/using-whoer-ip-checker-in-2023/?link=fa5922">Whoer IP Checker</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/how-to-set-up-socks5-proxy-list-wingate-me-in-2023/?link=fa5922">Private Proxy Wingate.me</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/overview-of-ultraviolet-proxy-features-sites-and-settings/?link=fa5922">Ultraviolet Proxy</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/how-to-use-taco-proxy-in-2024/?link=fa5922">Taco Proxy</a></p>
 
-<h4>Proxy Switchy Extension Settings Tutorial</h4>
-<p>https://www.okeyproxy.com/proxy/setup-proxy-helper-in-chrome-browser/</p>
-<p>https://www.okeyproxy.com/proxy/tutorial-of-proxy-switchyomega-chrome-settings/</p>
-<p>https://www.okeyproxy.com/proxy/how-to-setup-proxy-switchysharp-chrome-extension/</p>
-<p>https://www.okeyproxy.com/proxy/how-to-use-bp-proxy-switcher-chrome-extension/</p>
-<p>https://www.okeyproxy.com/proxy/how-to-use-proxifier-with-okey-proxy-in-2024/</p>
+<h4>Proxy Switcher Extension Settings Tutorial</h4>
+<p><a href="https://www.okeyproxy.com/proxy/setup-proxy-helper-in-chrome-browser/?link=fa5922">Proxy Helper Chrome Firefox Settings</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/tutorial-of-proxy-switchyomega-chrome-settings/?link=fa5922">Proxy SwitchyOmega Chrome Firefox Settings</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/how-to-setup-proxy-switchysharp-chrome-extension/?link=fa5922">Proxy SwitchySharp Chrome Firefox Settings</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/how-to-use-bp-proxy-switcher-chrome-extension/?link=fa5922">BP Proxy Switcher Chrome Firefox Settings</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/how-to-use-proxifier-with-okey-proxy-in-2024/?link=fa5922">Proxifier Settings</a></p>
 
 
 <h4>Free Proxy Setting Tutorial</h4>
-<p><a href="https://www.okeyproxy.com/proxy/croxy-proxy-for-youtube-unblocked/" title="Croxyproxy Youtube">Croxyproxy Youtube</a></p>
-<p><a href="https://www.okeyproxy.com/proxy/plain-proxies-free-web-proxy/" title="Plain Proxy">Plain Proxy</a></p>
-<p><a href="https://www.okeyproxy.com/proxy/how-to-use-free-hidester-proxy/" title="Hidester Proxy">Hidester Proxy</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/croxy-proxy-for-youtube-unblocked?link=fa5922/" title="Croxyproxy Youtube">Croxyproxy Youtube</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/plain-proxies-free-web-proxy/?link=fa5922" title="Plain Proxy">Plain Proxy</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/how-to-use-free-hidester-proxy/?link=fa5922" title="Hidester Proxy">Hidester Proxy</a></p>
 
 <br/>
 <br/>
