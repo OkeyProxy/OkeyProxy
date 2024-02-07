@@ -91,6 +91,7 @@ OkeyProxy has a special user pannel, not limited to any device, so supports Wind
 <p>Incogniton Browser: https://www.okeyproxy.com/en/blog/how-to-integrate-incogniton-browser-with-okeyproxy?link=fa5922</p>
 <p>Octoparse Scraper: https://www.okeyproxy.com/en/blog/how-to-configure-okey-proxy-with-octoparse-scraper?link=fa5922</p>
 <p>HuaYoung Browser:https://www.okeyproxy.com/en/blog/szdamai-browser-integrate-with-okeyproxy?link=fa5922</p>
+<p>DuckDuckGo Browser:https://www.okeyproxy.com/proxy/duckduckgo-proxy-guide-of-2024/?link=fa5922</p>
 
 <h4>Common Tutorial</h4>
 <p><a href="https://www.okeyproxy.com/proxy/using-whoer-ip-checker-in-2023/?link=fa5922" title="Whoer IP Checker">Whoer IP Checker</a></p>
