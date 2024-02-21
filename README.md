@@ -3,7 +3,7 @@ Okey Proxy is a versatile proxy server that supports both Socks5 and HTTP(s) pro
 
 To ensure reliable and fast connections, Okey Proxy utilizes international IPS datacenter servers and global high-speed Socks5 HTTP(s) nodes. This combination allows for long-lasting static residential proxies, ensuring stable connections, swift response times, and anonymous browsing. Your safety and privacy are prioritized when using Okey Proxy.
 
-<h4>OkeyProxy official website:</h4> [https://www.okeyproxy.com](https://www.okeyproxy.com/?link=fa5922)
+<h4>OkeyProxy official website:</h4> <a href="https://www.okeyproxy.com/?link=fa5922">https://www.okeyproxy.com</a>
 
 Get 1GB <a href="https://www.okeyproxy.com/proxy/">Free Trial Proxy</a>: 
 https://www.okeyproxy.com/proxy/free-trial-of-residential-proxies/?link=fa5922
@@ -112,6 +112,7 @@ OkeyProxy has a special user pannel, not limited to any device, so supports Wind
 <p><a href="https://www.okeyproxy.com/proxy/croxy-proxy-for-youtube-unblocked?link=fa5922/" title="Croxyproxy Youtube">Croxyproxy Youtube</a></p>
 <p><a href="https://www.okeyproxy.com/proxy/plain-proxies-free-web-proxy/?link=fa5922" title="Plain Proxy">Plain Proxy</a></p>
 <p><a href="https://www.okeyproxy.com/proxy/how-to-use-free-hidester-proxy/?link=fa5922" title="Hidester Proxy">Hidester Proxy</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/shuttle-proxy-unblocking-website-proxy/" title="Shuttle Proxy">Shuttle Proxy</a></p>
 
 <h4>Alternatives</h4>
 <p><a href="https://www.okeyproxy.com/proxy/the-best-911-proxy-alternative-in-2024/?link=fa5922" title="911 proxy alternative">911 proxy alternative</a></p>
