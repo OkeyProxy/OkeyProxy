@@ -1,4 +1,4 @@
-<h4>OkeyProxy</h4>
+<h3>OkeyProxy</h3>
 Okey Proxy is a versatile proxy server that supports both Socks5 and HTTP(s) protocols. It provides a wide range of IP options, including over 150 million rotating residential IPs, 5 million static residential proxies, and datacenter proxies from 200+ countries. Additionally, OkeyProxy offers various static IPs to cater to different needs. Supports IP extracting Through API. Supports all devices: Windows, IOS, Android, Linux. Supports All Use Cases: Antidetect Browser, Emulator, Data Scraping. etc. No cost for unavailable IP.
 
 To ensure reliable and fast connections, Okey Proxy utilizes international IPS datacenter servers and global high-speed Socks5 HTTP(s) nodes. This combination allows for long-lasting static residential proxies, ensuring stable connections, swift response times, and anonymous browsing. Your safety and privacy are prioritized when using Okey Proxy.
@@ -113,6 +113,7 @@ OkeyProxy has a special user pannel, not limited to any device, so supports Wind
 <p><a href="https://www.okeyproxy.com/proxy/plain-proxies-free-web-proxy/?link=fa5922" title="Plain Proxy">Plain Proxy</a></p>
 <p><a href="https://www.okeyproxy.com/proxy/how-to-use-free-hidester-proxy/?link=fa5922" title="Hidester Proxy">Hidester Proxy</a></p>
 <p><a href="https://www.okeyproxy.com/proxy/shuttle-proxy-unblocking-website-proxy/" title="Shuttle Proxy">Shuttle Proxy</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/how-to-use-proxyium-free-web-proxy/" title="Proxyium">Proxyium</a></p>
 
 <h4>Alternatives</h4>
 <p><a href="https://www.okeyproxy.com/proxy/the-best-911-proxy-alternative-in-2024/?link=fa5922" title="911 proxy alternative">911 proxy alternative</a></p>
