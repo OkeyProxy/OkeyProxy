@@ -114,6 +114,8 @@ OkeyProxy has a special user pannel, not limited to any device, so supports Wind
 <p><a href="https://www.okeyproxy.com/proxy/how-to-use-free-hidester-proxy/?link=fa5922" title="Hidester Proxy">Hidester Proxy</a></p>
 <p><a href="https://www.okeyproxy.com/proxy/shuttle-proxy-unblocking-website-proxy/" title="Shuttle Proxy">Shuttle Proxy</a></p>
 <p><a href="https://www.okeyproxy.com/proxy/how-to-use-proxyium-free-web-proxy/" title="Proxyium">Proxyium</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/blockaway-free-proxy-for-website-unblocked" title="Blockaway">Blockaway</a></p>
+
 
 <h4>Alternatives</h4>
 <p><a href="https://www.okeyproxy.com/proxy/the-best-911-proxy-alternative-in-2024/?link=fa5922" title="911 proxy alternative">911 proxy alternative</a></p>
