@@ -46,7 +46,7 @@ Social Media<br/>
 Facebook Proxy<br/>
 Pinterest Proxy<br/>
 Instagram Proxy<br/>
-Youtube Proxy<br/>
+<a href="https://www.okeyproxy.com/proxy/croxy-proxy-for-youtube-unblocked" title="Youtube Proxy">Youtube Proxy</a><br/>
 Discord Proxy<br/>
 Reddit Proxy<br/>
 <a href="https://www.okeyproxy.com/en/blog/Best-SOCKS5-Proxies-for-Carding-Enhancing-Security-and-Anonymity?link=fa5922" title="Best Proxy For Carding">Carding Proxy</a><br/>
