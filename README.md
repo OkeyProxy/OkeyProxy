@@ -39,6 +39,7 @@ Nepal<br/>
 <br/>E-Commerce<br/>
 Amazon Proxy<br/>
 eBay Proxy<br/>
+<a href="https://www.okeyproxy.com/proxy/get-youtube-unblocked-5-ways-in-2024/">Youtube Unblocked</a><br/>
 Sneaker Proxy<br/>
 Shopify Proxy<br/>
 ChatGPT Proxy<br/>
