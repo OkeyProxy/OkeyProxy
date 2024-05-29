@@ -113,6 +113,7 @@ OkeyProxy has a special user pannel, not limited to any device, so supports Wind
 <h4>Free Proxy Setting Tutorial</h4>
 <p><a href="https://www.okeyproxy.com/proxy/croxy-proxy-for-youtube-unblocked?link=fa5922/" title="Croxyproxy Youtube">Croxyproxy Youtube</a></p>
 <p><a href="https://www.okeyproxy.com/proxy/plain-proxies-free-web-proxy/?link=fa5922" title="Plain Proxy">Plain Proxy</a></p>
+<p><a href="https://www.okeyproxy.com/proxy/what-is-yuyu-proxy-and-how-to-use-it/?link=fa5922" title="Yuyu Proxy">Yuyu Proxy</a></p>
 <p><a href="https://www.okeyproxy.com/proxy/how-to-use-free-hidester-proxy/?link=fa5922" title="Hidester Proxy">Hidester Proxy</a></p>
 <p><a href="https://www.okeyproxy.com/proxy/shuttle-proxy-unblocking-website-proxy/" title="Shuttle Proxy">Shuttle Proxy</a></p>
 <p><a href="https://www.okeyproxy.com/proxy/how-to-use-proxyium-free-web-proxy/" title="Proxyium">Proxyium</a></p>
