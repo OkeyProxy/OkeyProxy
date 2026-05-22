@@ -15,7 +15,7 @@ TrustPilot Reviews: https://www.trustpilot.com/review/www.momoroxy.com
 
 <h4>Proxy IP Type</h4><br/>
 
-<a href="https://www.momoproxy.com/residential-proxies">Unmetered Residential Proxy</a><br/>
+<a href="https://www.momoproxy.com/residential-proxies">Rotating Residential Proxy</a><br/>
 Static Residential Proxies<br/>
 Datacenter Proxy<br/>
 
